@@ -1,1 +1,57 @@
-/* Write your CSS here! */
+.title {
+    text-align: center;
+    align-items: center;
+}
+
+.background{
+    background-color: #4C4C80;
+    opacity: .6;
+}
+
+body{
+    background-image: url(imgs/background.jpg);
+    text-align: center;
+    color:salmon;
+    text-shadow:0 0 1px #FF0000;
+    margin: 8px;
+    display: block;
+    
+}
+
+#inspiration{
+    background-color: #4C4C80;
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.basketball{
+    opacity: 1;
+}
+
+#goals{
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: #4C4C80;
+}
+
+.whereToFindMe{
+    background-color: #4C4C80;
+    
+}
+
+#mainHeading{
+    color: red;
+}
+
+#testP,.funParagraph{
+    color: green;
+    text-shadow:0 0 1px #FF0000;
+}
+
+a{
+    color: salmon;
+}
